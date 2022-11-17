@@ -1,1 +1,4 @@
-# Demo GIT
+# Demo Git
+
+Demo to use Git.
+
